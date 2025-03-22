@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Virtual environments
+.venv/
+env/
+
+# Datasets
+*.json
+*.jsonl
+data/raw/
+
+# Model weights
+*.pt
+*.bin
+*.safetensors
+*.ckpt
+
+# System files
+.DS_Store
+
+# Logs
+*.log
